@@ -119,7 +119,6 @@ class DepthScraper:
 
             self.data.append({
                 "url": url,
-                "html": html,
                 "plain_text": self._remove_personal_info(self._text_from_html(soup))
             })
             print("Scraping successful")
