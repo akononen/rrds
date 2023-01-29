@@ -1,2 +1,2 @@
 # rrds
- Relatively responsible domain scraper
+ Relatively responsible deep scraper
